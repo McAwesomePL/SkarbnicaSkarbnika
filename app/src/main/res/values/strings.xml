@@ -1,0 +1,12 @@
+<resources>
+	<string name="app_name">Skarbnica skarbnika</string>
+	<string name="title_home">Ekran główny</string>
+	<string name="title_dashboard">Zbiórki</string>
+	<string name="title_notifications">Ustawienia</string>
+
+	<!-- TODO: Remove or change this placeholder text -->
+	<string name="fragment1">Fragment 1</string>
+	<string name="fragment2">Fragment 2</string>
+	<string name="fragment3">Fragment 3</string>
+
+</resources>
