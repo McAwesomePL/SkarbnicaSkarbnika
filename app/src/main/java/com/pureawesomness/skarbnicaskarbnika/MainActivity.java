@@ -7,6 +7,10 @@ import android.view.MenuItem;
 import android.support.design.widget.BottomNavigationView;
 import android.support.v7.app.AppCompatActivity;
 
+import com.pureawesomness.skarbnicaskarbnika.fragments.TabOneFragment;
+import com.pureawesomness.skarbnicaskarbnika.fragments.TabThreeFragment;
+import com.pureawesomness.skarbnicaskarbnika.fragments.TabTwoFragment;
+
 public class MainActivity extends AppCompatActivity
         implements TabOneFragment.OnFragmentInteractionListener,
         TabTwoFragment.OnFragmentInteractionListener,
